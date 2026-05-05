@@ -1,0 +1,29 @@
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/bin/Debug/net6.0/AluguerAutomoveis
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/bin/Debug/net6.0/AluguerAutomoveis.deps.json
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/bin/Debug/net6.0/AluguerAutomoveis.runtimeconfig.json
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/bin/Debug/net6.0/AluguerAutomoveis.dll
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/bin/Debug/net6.0/AluguerAutomoveis.pdb
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.csproj.AssemblyReference.cache
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.AssemblyInfoInputs.cache
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.AssemblyInfo.cs
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.csproj.CoreCompileInputs.cache
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.dll
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/refint/AluguerAutomoveis.dll
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.pdb
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/AluguerAutomoveis.genruntimeconfig.cache
+/home/hermenegildo/Documentos/Projectos C#/AluguerAutomoveis/obj/Debug/net6.0/ref/AluguerAutomoveis.dll
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.AssemblyInfoInputs.cache
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.AssemblyInfo.cs
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.csproj.CoreCompileInputs.cache
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.dll
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\refint\AluguerAutomoveis.dll
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.pdb
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\bin\Debug\net6.0\AluguerAutomoveis.exe
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\bin\Debug\net6.0\AluguerAutomoveis.deps.json
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\bin\Debug\net6.0\AluguerAutomoveis.runtimeconfig.json
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\bin\Debug\net6.0\AluguerAutomoveis.dll
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\bin\Debug\net6.0\AluguerAutomoveis.pdb
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\AluguerAutomoveis.genruntimeconfig.cache
+C:\Users\Luvambo Da Costa\Desktop\POO\Ex-6.1-Sistema de Gestao de Aluguer de Automoveis\obj\Debug\net6.0\ref\AluguerAutomoveis.dll
